@@ -22,3 +22,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 11.0
+
+[submodule "muk-it/muk_dms"]
+	path = muk-it/muk_dms
+	url = git@github.com:muk-it/muk_dms.git
+	branch = 11.0
